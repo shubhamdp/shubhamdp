@@ -1,4 +1,4 @@
-### Hi there 👋 I am Shubham
+### 👋 I am Shubham
 
 - 🔭 I’m currently working on [ESP Insights](https://github.com/espressif/esp-insights)
 - 🌱 I’m currently learning C++ and want to learn Rust
