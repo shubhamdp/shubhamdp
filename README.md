@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [ESP Insights](https://github.com/espressif/esp-insights)
 - 🌱 I’m currently learning C++ and want to learn Rust
-- ⚡ Working on a hobby project [School](https://shubhamdp.github.io/school) which provides the intermediate steps in an arithmetic operation
+- ⚡ Working on a hobby project, [School](https://shubhamdp.github.io/school), which provides the intermediate steps in an arithmetic operation
 
 <!--
 **shubhamdp/shubhamdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
