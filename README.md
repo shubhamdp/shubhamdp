@@ -1,7 +1,7 @@
 ### 👋 I am Shubham
 
-- 🔭 I’m currently working on [ESP Insights](https://github.com/espressif/esp-insights)
-- 🌱 I’m currently learning C++ and want to learn Rust
+- 🔭 I’m currently working on [ESP Matter](https://github.com/espressif/esp-matter)
+- 🌱 I’m currently learning C++
 - ⚡ Working on a hobby project, [School](https://shubhamdp.github.io/school), which provides the intermediate steps in an arithmetic operation
 
 <!--
