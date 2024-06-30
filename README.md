@@ -1,9 +1,7 @@
-### 👋 I am Shubham
+### 👋
 
-- 🔭 I’m currently working on [ESP Matter](https://github.com/espressif/esp-matter)
-- 🌱 I’m currently learning C++
-- ⚡ Working on a hobby project, [School](https://shubhamdp.github.io/school), which provides the intermediate steps in an arithmetic operation
-
+- 🔭 IoT and Embedded enthusiast
+- 🌱 Building [Matter](https://buildwithmatter.com) products at [@espressif](https://github.com/espressif)
 <!--
 **shubhamdp/shubhamdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
