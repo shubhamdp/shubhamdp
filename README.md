@@ -1,7 +1,8 @@
 ### 👋
 
-- 🔭 IoT and Embedded enthusiast
-- 🌱 Building [Matter](https://buildwithmatter.com) products at [@espressif](https://github.com/espressif)
+- 🔭 IoT and embedded enthusiast
+- 🌱 Building [Matter](https://buildwithmatter.com) solutions at [@espressif](https://github.com/espressif).
+
 <!--
 **shubhamdp/shubhamdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
